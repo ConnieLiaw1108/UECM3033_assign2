@@ -34,7 +34,7 @@ Solve by lu(A,b)
 
 ## Task 2 -- SVD method and image compression
 
-Put here your picture file (beautiful.png)
+Put here your picture file (cute.png)
 
 ![cute.png](cute.png)
 
