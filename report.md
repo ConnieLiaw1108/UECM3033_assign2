@@ -10,7 +10,7 @@ UECM3033 Assignment #2 Report
 
 The reports, codes and supporting documents are to be uploaded to Github at: 
 
-[https://github.com/AlferdFoo/UECM3033_assign2](https://github.com/AlferdFoo/UECM3033_assign2)
+[https://github.com/ConnieLiaw1108/UECM3033_assign2](https://github.com/ConnieLiaw1108/UECM3033_assign2)
 
 Explain your selection criteria here.
 
